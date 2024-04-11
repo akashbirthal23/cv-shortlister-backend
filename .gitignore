@@ -1,0 +1,5 @@
+venv
+.venv
+resume/.env
+__pycache__
+static
