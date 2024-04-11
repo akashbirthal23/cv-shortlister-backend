@@ -105,6 +105,7 @@ def process_resume(text, jd_text_embedding, index):
     resume_content['details'] = details
     # print("details: ", details)
 
+
     imp_project_workex=""
     finaltext.sort(key=lambda x: x[0], reverse=True)
     for i in range(min(3, len(finaltext))):
