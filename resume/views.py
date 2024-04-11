@@ -138,3 +138,4 @@ def poll(request):
     poll_data = ret
     ret = []
     return JsonResponse(poll_data, safe=False)
+
