@@ -78,4 +78,4 @@ An example of request:
 
 Github Repo: https://github.com/akashbirthal23/cv-shortlister-frontend/
 
-Deployed Link: 
+Deployed Link: https://parse.cvninja.studio/
