@@ -72,7 +72,7 @@ python manage.py runserver
 Please utilize Postman or any other application designed for making HTTP requests. Subsequently, initiate a POST request using the following URL: http://localhost:8000/submit/. Ensure to include the PDF files within the request body, specifying the key name as "resume".
 
 An example of request:
-<img src="https://github.com/akashbirthal23/cv-shortlister-backend/blob/main/example-request.png" align="center" width="100%"/>
+<img src="https://github.com/akashbirthal23/cv-shortlister-backend/blob/master/example-request.png" align="center" width="100%"/>
 
 ## Frontend Part of this project
 
