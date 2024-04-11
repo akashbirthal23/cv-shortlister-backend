@@ -17,7 +17,7 @@ To set up this project locally, follow these steps:
 1. Clone the repository to your local machine (if you haven't already):
 
    ```bash
-   git clone https://github.com/AakibAlam/cv-shortlister-backend.git
+   git clone https://github.com/akashbirthal23/cv-shortlister-backend.git
    ```
 
 2. Navigate to the project directory:
@@ -72,10 +72,10 @@ python manage.py runserver
 Please utilize Postman or any other application designed for making HTTP requests. Subsequently, initiate a POST request using the following URL: http://localhost:8000/submit/. Ensure to include the PDF files within the request body, specifying the key name as "resume".
 
 An example of request:
-<img src="https://github.com/AakibAlam/cv-shortlister-backend/blob/main/example-request.png" align="center" width="100%"/>
+<img src="https://github.com/akashbirthal23/cv-shortlister-backend/blob/main/example-request.png" align="center" width="100%"/>
 
 ## Frontend Part of this project
 
-Github Repo: https://github.com/AakibAlam/cv-shortlister-frontend/
+Github Repo: https://github.com/akashbirthal23/cv-shortlister-frontend/
 
-Deployed Link: https://parse.cvninja.studio/
+Deployed Link: 
