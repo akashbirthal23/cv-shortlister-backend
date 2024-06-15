@@ -12,7 +12,7 @@ generation_config = {
   "top_k": 45,
   "max_output_tokens": 4096,
 }
-model = genai.GenerativeModel(model_name="gemini-pro", generation_config=generation_config)
+model = genai.GenerativeModel(model_name="gemini-1.5-pro", generation_config=generation_config)
 
 
 def gemini_response(text):
